@@ -64,11 +64,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Character\Script\CharacterMover.cs" />
     <Compile Include="Assets\Scripts\AmongUsGamePlayer.cs" />
     <Compile Include="Assets\Scripts\AmongUsRoomManager.cs" />
     <Compile Include="Assets\Scripts\AmongUsRoomPlayer.cs" />
     <Compile Include="Assets\Scripts\PlayerColor.cs" />
     <Compile Include="Assets\Scripts\PlayerSettings.cs" />
+    <Compile Include="Assets\UI\GameRoom\Script\GameRoomSettingUI.cs" />
     <Compile Include="Assets\UI\Main Menu Crew\Scripts\CrewFloater.cs" />
     <Compile Include="Assets\UI\Main Menu Crew\Scripts\FloatingCrew.cs" />
     <Compile Include="Assets\UI\Online UI\Script\CreateRoomUI.cs" />
